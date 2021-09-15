@@ -1,2 +1,3 @@
 # notepadd-plus-plus
-Meus temas (incompletos) do Notepad++
+
+Alguns temas para uso no software Notepad++, estilizado para LUA e C++ apenas, pois são as linguagens que uso.
